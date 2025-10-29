@@ -1,5 +1,7 @@
 AIM: 
 The aim of this project is to develop a Python program that can analyze a simple card game to determine the winning strategy. We will use a hypothetical card game where two players draw cards from a deck and the player with the higher card wins the round. The goal is to simulate the game, evaluate the strategies, and identify the winning conditions.
+
+
 PROCEDURE:
 1.	Start the program.
 2.	Initialize the deck of cards
